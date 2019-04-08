@@ -1,0 +1,18 @@
+{
+  "name": "dropbox-api-es6",
+  "version": "1.0.0",
+  "description": "\"Practice api\"",
+  "main": "index.js",
+  "dependencies": {
+    "dropbox": "^4.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "nkchakraborty"
+  ],
+  "author": "Nipu Chakraborty",
+  "license": "ISC"
+}
